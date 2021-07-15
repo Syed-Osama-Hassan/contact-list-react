@@ -1,0 +1,13 @@
+.contact-list-item{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+
+.contact-avatar{
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
